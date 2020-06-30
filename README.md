@@ -1,1 +1,1 @@
-# horus-capital-angular
+# Horus Capital Angular
